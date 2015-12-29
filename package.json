@@ -1,7 +1,7 @@
 {
   "name": "emoji-from-text",
   "version": "1.0.0",
-  "description": "Get relevant emoji from an input text.",
+  "description": "Get relevant emoji for a given input text.",
   "main": "lib/index.js",
   "directories": {
     "example": "example"
