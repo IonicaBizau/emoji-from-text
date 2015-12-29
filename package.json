@@ -1,0 +1,32 @@
+{
+  "name": "emoji-from-text",
+  "version": "1.0.0",
+  "description": "Get relevant emoji from an input text.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "count-words-array": "^1.0.0",
+    "emoji-from-word": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/emoji-from-text.git"
+  },
+  "keywords": [
+    "emoji",
+    "text",
+    "relevant"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/emoji-from-text/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/emoji-from-text#readme"
+}
