@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "count-words-array": "^1.0.0",
-    "emoji-from-word": "^1.1.0"
+    "emoji-from-word": "^1.2.0"
   },
   "devDependencies": {},
   "scripts": {
