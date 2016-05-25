@@ -1,5 +1,7 @@
 
-# emoji-from-text [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/emoji-from-text.svg)](https://www.npmjs.com/package/emoji-from-text) [![Downloads](https://img.shields.io/npm/dt/emoji-from-text.svg)](https://www.npmjs.com/package/emoji-from-text) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# emoji-from-text
+
+ [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/emoji-from-text.svg)](https://www.npmjs.com/package/emoji-from-text) [![Downloads](https://img.shields.io/npm/dt/emoji-from-text.svg)](https://www.npmjs.com/package/emoji-from-text) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Get relevant emoji for a given input text.
 
