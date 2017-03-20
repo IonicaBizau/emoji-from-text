@@ -1,6 +1,6 @@
 {
   "name": "emoji-from-text",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Get relevant emoji for a given input text.",
   "main": "lib/index.js",
   "directories": {
@@ -23,7 +23,7 @@
     "text",
     "relevant"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/emoji-from-text/issues"
@@ -33,12 +33,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
