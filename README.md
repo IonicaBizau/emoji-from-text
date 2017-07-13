@@ -93,7 +93,7 @@ Thanks! :heart:
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
 
- - [`github-emojify`](https://github.com/IonicaBizau/github-emojifiy#readme)—Emojify your GitHub repository descriptions.
+ - [`github-emojify`](https://github.com/IonicaBizau/github-emojify#readme)—Emojify your GitHub repository descriptions.
 
 ## :scroll: License
 
