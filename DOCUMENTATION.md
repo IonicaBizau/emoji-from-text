@@ -5,6 +5,7 @@ You can see below the API reference of this module.
 ### `emojiFromText(s, f)`
 
 #### Params
+
 - **String** `s`: The input text.
 - **Boolean** `f`: If `true`, only the first object from array will be returned.
 
