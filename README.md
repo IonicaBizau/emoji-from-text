@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save emoji-from-text
+# Using npm
+npm install --save emoji-from-text
+
+# Using yarn
+yarn add emoji-from-text
 ```
 
 
