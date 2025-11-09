@@ -3,6 +3,7 @@
   "version": "1.1.14",
   "description": "Get relevant emoji for a given input text.",
   "main": "lib/index.js",
+  "types": "index.d.ts",
   "directories": {
     "example": "example"
   },
@@ -10,7 +11,6 @@
     "count-words-array": "^1.0.0",
     "emoji-from-word": "^1.2.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
